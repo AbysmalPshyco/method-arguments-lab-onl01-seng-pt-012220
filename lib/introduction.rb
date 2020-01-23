@@ -7,4 +7,4 @@ def introduction_with_language(name, language)
 end
 
 introduction("Dan")
-introduction_with_language("Dan", "Ember.js\n")
+introduction_with_language("Dan", "Ember.js")
